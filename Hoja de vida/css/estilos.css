@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* centrar main*/
+main{
+    max-width: 80%;
+    margin: 0 auto;
+}
+/*header y main*/
+header{
+    background-color: #ddd;
+    text-align: center;
+    line-height: 2; /*dar espacio arriba y abajo*/
+}
+h1, h2{
+    background-color: #bfbfbf;
+    text-transform: capitalize; /*cambiar mayusculas*/
+}
+h1{
+    color: #1f497d;
+}
+h2{
+    color: #632423;
+}
+.item-detail{
+    font-style: italic;
+    font-weight:bold;
+}
